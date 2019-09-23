@@ -1,0 +1,3 @@
+run Force accel1 accel2
+
+Note: Time domain data collected using DAQ with MATLAB directly.
